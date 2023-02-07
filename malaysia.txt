@@ -1,3 +1,4 @@
 Population : 33.57 million
 Capital: Federal Territory of Kuala Lumpur
 Largest City: Federal Territory of Kuala Lumpur
+Continent: Asia

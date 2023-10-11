@@ -1,3 +1,4 @@
 Population : 10.49 million
 Capital: Stockholm
 Largest City: Stockholm
+Continent: Europe
